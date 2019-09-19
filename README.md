@@ -1,4 +1,3 @@
-# Virtual-screening
 for($i=1;$i<=9;$i++)
 {
 	open(my $fh, '>', 'conf.txt');
